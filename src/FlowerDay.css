@@ -1,0 +1,37 @@
+.App {
+    text-align: center;
+  }
+  
+ 
+  .topic{
+    font-weight: bold;
+    color: rgb(8, 8, 8);
+    font-size:35px;
+    text-decoration: underline;  
+    font-family: 'Chonburi', sans-serif;
+}
+  .topicD{
+    font-weight: bold;
+    color: rgb(85, 79, 79);
+    font-size:25px;
+    
+}
+  .text{
+    font-size:19px;
+    margin:16px ;/*เว้นระยะจากข้อความข้างบน*/
+    text-align : center;/* ให้ข้อความอยู่ตรงกลาง */
+    max-width: 800px; /* เว้นระยะขอบซ้ายขวาข้อความอยู่ตรงกลาง*/
+}
+  .App-header {
+    background-color: #c8abd4;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: calc(10px + 2vmin);
+    color: white;
+  }
+  
+ 
+  

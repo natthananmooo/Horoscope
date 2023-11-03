@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Chonburi:wght@300;400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Kanit:wght@300;400;700&display=swap');
+.Home {
+    text-align: center;
+    
+  }
+.topicH{
+    font-weight: bold;
+    font-size: 38px;
+    color: #0e3467;
+    font-family: 'Chonburi', sans-serif;
+}
+
+.textH{
+    font-family: 'Kanit', sans-serif;
+    color: #701e8d;
+    font-size:24px;
+    margin:16px ;/*เว้นระยะจากข้อความข้างบน*/
+    text-align : center;/* ให้ข้อความอยู่ตรงกลาง */
+    max-width: 1200px; /* เว้นระยะขอบซ้ายขวาข้อความอยู่ตรงกลาง*/
+    
+}
+.textli{
+    font-family: 'Kanit', sans-serif;
+    font-size:19px;
+    text-align : left;
+    color: #701e8d;
+    
+}
+
+  
+  .Home-header {
+    font-family: 'Kanit', sans-serif;
+    background-color: #c9aad6;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: calc(10px + 2vmin);
+    color: white;
+  }
+  .heart{
+    color:red;
+  }
+

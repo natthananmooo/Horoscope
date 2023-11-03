@@ -1,0 +1,33 @@
+.AppZ {
+    text-align: center;
+  }
+  
+ 
+  .topic{
+    font-weight: bold;
+    color: #6c1c8b;
+    font-size:60px;
+    text-decoration: underline;  
+}
+.topicZ{
+  color: #0e3467;
+}
+  .text{
+    font-size:19px;
+    color: #701e8d;
+    margin:16px ;/*เว้นระยะจากข้อความข้างบน*/
+    text-align : center;/* ให้ข้อความอยู่ตรงกลาง */
+    max-width: 800px; /* เว้นระยะขอบซ้ายขวาข้อความอยู่ตรงกลาง*/
+}
+  .zo-header {
+    background-color: #c8abd4;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    color: white;
+  }
+  
+ 
+  
